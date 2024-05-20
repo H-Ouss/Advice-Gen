@@ -22,13 +22,6 @@ body {
     background-color: var(--Dark-Blue);
 }
 
-body {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: var(--Dark-Blue);
-}
 
 .advice-card {
     width: 500px;
